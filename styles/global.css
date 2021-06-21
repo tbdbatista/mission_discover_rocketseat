@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-sizing: border-box;
+}
+
+html {
+    --black: #0d114f;
+    --white: #fafafa;
+    --red: #e83f5b;
+    --light-blue: #e0ecff;
+    --blue: #3485ff;
+    --background: #f6faff;
+    --overlay: #040911;
+    --icons-details: #a5b0c1;
+
+    --grey-dark: #4d5e77;
+    --grey-blue: #a1b2cd;
+    --grey-light: #e5eaf1;
+
+    /* 
+    1rem = 16px = 100% <-- padrão do navegador
+    10px = 62,5%
+    1px = 6,25%
+    se padronizarmos o html com 6,25% de tamanho --> 1rem = 1px
+    ou, se se padronizarmos o html com 62,5% de tamanho --> 1rem = 10px
+    pode usar qualquer um dos dois, como preferir
+    */
+
+    font-size: 62.5%;
+}
+
+h2 {
+    font-size: 2.8rem;
+}
