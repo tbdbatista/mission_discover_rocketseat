@@ -1,4 +1,4 @@
 # :rocket: Mission_discover_rocketseat :rocket:
-Missão discover do NLW/Together de junho de 2021 do Rocketseat :rocket:
+Rocketseat's June 2021 NLW/Together discover mission
 
-Projeto realizado na semana NLW/Together da rocketseat :rocket: com propósito de desenvolver principalmente habilidades em Node.js, além de revisar conceitos de HTML5, CSS3 e JS.
+Project carried out in the NLW/Together week of rocketseat 🚀 with the purpose of mainly developing skills in Node.js, besides reviewing concepts of HTML5, CSS3 and JS.
